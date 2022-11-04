@@ -51,9 +51,10 @@ body {
 }
 
 .imglogo {
-    height: 50%;
-    width: 50%;
-    margin-top: -10px;
+    height: 120px;
+    width: 300px;
+    margin-top: -20px;
+    margin-left: -5px;
 }
 
 @keyframes fadeInRight {
@@ -123,7 +124,7 @@ body {
     border-bottom: 1px solid #cccccc;
     padding-bottom: 10px;
     line-height: 25px;
-    margin-top: 30px;
+    margin-top: 20px;
 }
 
 .quiz-box .question-text {
@@ -553,7 +554,7 @@ p {
 }
 
 .margi10top {
-    margin-top: 30px;
+    margin-top: 20px;
 }
 
 .margi5top {
